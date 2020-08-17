@@ -2,7 +2,10 @@
 ![](https://img.shields.io/badge/Release-V1.0.0-blue.svg)  ![](https://img.shields.io/badge/Build-Stable-green.svg) ![](https://img.shields.io/badge/License-MIT-red.svg) ![](https://img.shields.io/badge/By-Abhishek%20Sarkar-red.svg?style=social&logo=appveyor)
 
 ------------
+Let's connect 👨‍💻 and forge the future together.😁✌
 
+**Show your support a :star: is all this repo needs** :smile:
+<br><br>
 
 ## Introduction
 This calendar is having the uniqueness of being directly designed out of the formula of Key-Value method of Gregorian Calendar. The used formula for this calendar as stated in the [Source](https://artofmemory.com/blog/how-to-calculate-the-day-of-the-week-4203.html) link, doesn't use any existing external/internal API.
